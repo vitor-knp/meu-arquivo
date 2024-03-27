@@ -3,12 +3,12 @@
 }
 
 .cabecalho-geral {
-    background-color: white;
+    background-color: rgba(131, 114, 114, 0.699);
 }
 
 .titulo-cabecalho {
     color: rgb(0, 0, 0);
-    font-size: 60px;
+    font-size: 69px;
     font-family: cursive;
     display: flex;
     justify-content: space-around;
@@ -20,13 +20,13 @@
 }
 
 .tit-1-secao {
-    color: rgb(0, 0, 0);
+    color:green;
     font-size: 40px;
     font-family: fantasy;
 }
 
 .tit-2-secao {
-    color: rgb(0, 0, 0);
+    color: yellow;
     font-size: 40px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
         Geneva, Verdana, sans-serif;
@@ -45,7 +45,7 @@
 }
 
 .item-1 {
-    color: darkgreen;
+    color: rgb(220, 4, 248);
 }
 
 .item-2 {
@@ -53,7 +53,7 @@
 }
 
 .item-3 {
-    color: rgb(0, 38, 255);
+    color: rgb(0, 255, 200);
 }
 
 .item-4 {
@@ -61,15 +61,15 @@
 }
 
 .item-5 {
-    color: rgb(153, 70, 2);
+    color: rgb(61, 255, 12);
 }
 
 .secao {
-    background-color: rgb(70, 70, 70);
+    background-color: purple;
 }
 
 .rodape {
-    background-color: black;
+    background-color:red;
     padding: 10px;
-    color: white;
+    color: rgb(41, 14, 160);
 }
